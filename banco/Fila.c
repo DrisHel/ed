@@ -102,7 +102,7 @@ void menu(Fila *fl,int id){
         printf("\n\nInforme uma Opção:");
         printf("\n -- 1 - para Insere:");
         printf("\n -- 2 - para Remove:");
-        printf("\n -- 3 - MostraFila:");
+        printf("\n -- 3 - Mostra Fila:");
         printf("\n -- 4 - Apaga Fila:");
         printf("\n -- 0 - para Sair do Programa:\n");
         printf("\nInforme sua Opçao:");
